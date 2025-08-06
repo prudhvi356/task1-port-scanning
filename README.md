@@ -61,6 +61,7 @@ Refer to `risksofopenports.txt` for full explanations.
    sudo nmap -sV -oN version.txt 192.168.0.0/24
 
 **Recommendations**
+
 Close unused or unnecessary ports.
 
 Regularly update and patch exposed services.
