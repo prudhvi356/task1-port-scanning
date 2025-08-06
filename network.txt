@@ -1,0 +1,151 @@
+# Nmap 7.95 scan initiated Wed Aug  6 15:49:17 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN network.txt 192.168.0.173/24
+Nmap scan report for 192.168.0.1
+Host is up (0.0062s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE
+53/tcp   open  domain
+80/tcp   open  http
+443/tcp  open  https
+1723/tcp open  pptp
+8080/tcp open  http-proxy
+MAC Address: 40:ED:00:52:3E:FD (TP-Link Limited)
+
+Nmap scan report for 192.168.0.106
+Host is up (0.0060s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT    STATE SERVICE
+80/tcp  open  http
+554/tcp open  rtsp
+MAC Address: 28:18:FD:FE:47:C2 (Aditya Infotech)
+
+Nmap scan report for 192.168.0.110
+Host is up (0.016s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+554/tcp  open  rtsp
+8086/tcp open  d-s-n
+MAC Address: 28:18:FD:95:94:DD (Aditya Infotech)
+
+Nmap scan report for 192.168.0.111
+Host is up (0.011s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+554/tcp  open  rtsp
+8086/tcp open  d-s-n
+MAC Address: 28:18:FD:95:94:FE (Aditya Infotech)
+
+Nmap scan report for 192.168.0.112
+Host is up (0.012s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+554/tcp  open  rtsp
+8086/tcp open  d-s-n
+MAC Address: 28:18:FD:95:92:40 (Aditya Infotech)
+
+Nmap scan report for 192.168.0.113
+Host is up (0.021s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+554/tcp  open  rtsp
+8086/tcp open  d-s-n
+MAC Address: 28:18:FD:95:94:F8 (Aditya Infotech)
+
+Nmap scan report for 192.168.0.114
+Host is up (0.011s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+554/tcp  open  rtsp
+8086/tcp open  d-s-n
+MAC Address: 28:18:FD:95:6B:7E (Aditya Infotech)
+
+Nmap scan report for 192.168.0.115
+Host is up (0.012s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+554/tcp  open  rtsp
+8086/tcp open  d-s-n
+MAC Address: 28:18:FD:95:6B:76 (Aditya Infotech)
+
+Nmap scan report for 192.168.0.116
+Host is up (0.0095s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+554/tcp  open  rtsp
+8086/tcp open  d-s-n
+MAC Address: 28:18:FD:95:94:F9 (Aditya Infotech)
+
+Nmap scan report for 192.168.0.117
+Host is up (0.040s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+554/tcp  open  rtsp
+8086/tcp open  d-s-n
+MAC Address: 28:18:FD:95:6B:49 (Aditya Infotech)
+
+Nmap scan report for 192.168.0.118
+Host is up (0.0085s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT      STATE SERVICE
+80/tcp    open  http
+443/tcp   open  https
+44443/tcp open  coldfusion-auth
+MAC Address: 98:25:4A:26:F6:9C (TP-Link PTE.)
+
+Nmap scan report for 192.168.0.140
+Host is up (0.012s latency).
+All 1000 scanned ports on 192.168.0.140 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 1A:91:74:98:75:EC (Unknown)
+
+Nmap scan report for 192.168.0.142
+Host is up (0.098s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+7070/tcp open  realserver
+MAC Address: 9C:29:76:93:BD:31 (Intel Corporate)
+
+Nmap scan report for 192.168.0.156
+Host is up.
+All 1000 scanned ports on 192.168.0.156 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: DC:97:BA:B4:B3:7E (Intel Corporate)
+
+Nmap scan report for 192.168.0.164
+Host is up.
+All 1000 scanned ports on 192.168.0.164 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: C8:58:B3:77:44:94 (Unknown)
+
+Nmap scan report for 192.168.0.170
+Host is up (0.066s latency).
+All 1000 scanned ports on 192.168.0.170 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 28:A0:6B:EB:95:CE (Intel Corporate)
+
+Nmap scan report for 192.168.0.172
+Host is up (0.11s latency).
+All 1000 scanned ports on 192.168.0.172 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: CA:C0:D8:8D:55:5E (Unknown)
+
+Nmap scan report for 192.168.0.175
+Host is up (0.00047s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+7070/tcp open  realserver
+MAC Address: CC:6B:1E:9F:1D:FF (Cloud Network Technology Singapore PTE.)
+
+Nmap scan report for 192.168.0.173
+Host is up (0.0000090s latency).
+All 1000 scanned ports on 192.168.0.173 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Wed Aug  6 15:51:57 2025 -- 256 IP addresses (19 hosts up) scanned in 160.61 seconds
