@@ -1,4 +1,4 @@
-# Network Reconnaissance & Security Assessment
+# Port Scanning
 
 This project provides a network security analysis using Nmap port scanning, service version detection, and packet capture analysis. It highlights open ports, the risks associated with exposed services, and potential vulnerabilities in the local network (192.168.0.0/24).
 
